@@ -12,3 +12,9 @@ PUCP's Fundamentals of Python course repository
 2. Spiderman
 3. Rey Leon
 4. Volver al Futuro
+
+# degrees
+1. political science
+2. economy
+3. anthropology
+4. psychology
