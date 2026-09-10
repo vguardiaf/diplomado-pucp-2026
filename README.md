@@ -13,6 +13,12 @@ PUCP's Fundamentals of Python course repository
 3. Rey Leon
 4. Volver al Futuro
 
+# actors 
+1. Al Pacino
+2. Robert de Niro
+3. Denzel Washington
+4. Leonardo di Caprio
+
 # degrees
 1. political science
 2. economy
