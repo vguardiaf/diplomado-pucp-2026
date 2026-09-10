@@ -6,3 +6,9 @@ PUCP's Fundamentals of Python course repository
 2. Victor Roman
 3. Noelia León
 4. Valeria Murga
+
+# movies
+1. Gladiador
+2. Spiderman
+3. Rey Leon
+4. Volver al Futuro
