@@ -18,3 +18,5 @@ PUCP's Fundamentals of Python course repository
 2. economy
 3. anthropology
 4. psychology
+5. sociology
+6. computer science
